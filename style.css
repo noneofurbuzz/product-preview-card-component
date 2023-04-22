@@ -23,8 +23,10 @@ img{
 }
 .body{
     width: 550px;
-    padding-left: 20px;
-    padding-right: 30px;
+    padding-left: 30px;
+    padding-right: 20px;
+    padding-bottom: 35px;
+    
 }
 @font-face {
     font-family: fraunces;
@@ -74,4 +76,24 @@ li{
     font-weight: 500;
     color: hsl(220, 15%, 55%);
     padding-left: 10px;
+}
+button{
+    color: white;
+    background-color: hsl(158, 36%, 37%);
+    font-size: 15px;
+    font-family: montserrat;
+    font-weight: 700;
+    text-align: center;
+    border: none;
+    border-radius: 6px;
+    padding: 15px 60px;
+    white-space: nowrap;
+    
+}
+button img{
+    padding-right: 10px;
+    vertical-align: middle;
+}
+button:hover{
+    background-color: hsl(158, 36%, 15%);
 }

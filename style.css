@@ -1,5 +1,6 @@
 body{
     background-color: hsl(30, 38%, 92%);
+    margin: 0;
 }
 .container{
     height: 100vh;

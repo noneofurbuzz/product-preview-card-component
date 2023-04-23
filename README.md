@@ -34,7 +34,7 @@ Users should be able to:
 
 #### Mobile view
 
-![](/screenshots/mobile-screenshot.png)
+![](/screenshots/mobile-screenshot.jpg)
 
 ### Links
 

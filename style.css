@@ -113,6 +113,9 @@ button img{
     padding-right: 10px;
     vertical-align: middle;
 }
+button:active{
+    background-color: hsl(158, 36%, 15%);
+}
 .attribution { 
     font-size: 11px;
     text-align: center; 
@@ -172,19 +175,9 @@ button img{
 @media (pointer:fine){
     button:hover{
         cursor: pointer;
-        background-color: hsl(158, 36%, 15%);
+        background-color: hsl(158, 36%, 15%) ;
     }
     button:active{
         background-color: hsl(158, 36%, 37%);
-    }
-}
-@media (pointer:coarse){
-    button:active{
-        background-color: hsl(158, 36%, 15%);
-    }
-}
-@media (pointer:none){
-    button:active{
-        background-color: hsl(158, 36%, 15%);
     }
 }

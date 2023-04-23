@@ -113,6 +113,9 @@ button img{
     padding-right: 10px;
     vertical-align: middle;
 }
+button:hover{
+    background-color: hsl(158, 36%, 15%);
+}
 button:active{
     background-color: hsl(158, 36%, 15%);
 

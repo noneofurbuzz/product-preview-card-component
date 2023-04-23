@@ -113,13 +113,6 @@ button img{
     padding-right: 10px;
     vertical-align: middle;
 }
-button:hover{
-    cursor: pointer;
-    background-color: hsl(158, 36%, 15%);
-}
-button:active{
-    background-color: hsl(158, 36%, 37%);
-}
 .attribution { 
     font-size: 11px;
     text-align: center; 
